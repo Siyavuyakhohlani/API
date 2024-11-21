@@ -1,7 +1,7 @@
 [
     {
         "firstName": "Zenande",
-        "lastname": "Nocanda",
+        "lastName": "Nocanda",
         "favHobby": "Reading",
         "criminal": false,
         "dreamCars":[
@@ -19,7 +19,7 @@
     },
     {
         "firstName":"Siyavuya",
-        "lastname":"Khohlani",
+        "lastName":"Khohlani",
         "favHobby":"Playing games",
         "criminal":false,
         "dreamCars":[
