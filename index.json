@@ -1,0 +1,74 @@
+[
+    {
+        "firstName": "Zenande",
+        "lastname": "Nocanda",
+        "favHobby": "Reading",
+        "criminal": false,
+        "dreamCars":[
+            {
+                "carName":"Toyota",
+                "engineCapacity": 2.1,
+                "model":"Cressida Wagon 5 speed"
+            },
+            {
+                "carName":"Toyota",
+                "engineCapacity": 2,
+                "model":"Stallion"
+            }
+        ]
+    },
+    {
+        "firstName":"Siyavuya",
+        "lastname":"Khohlani",
+        "favHobby":"Playing games",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carName":"Audi",
+                "engineCapacity":4,
+                "model":"A6 e-Tron"
+            },
+            {
+                "carName":"Mercedes-Benz",
+                "engineCapacity":3,
+                "model":"EQG"
+            }
+        ]
+    },
+    {
+        "firstName" : "Asiphesona",
+        "lastName" :"Dumzela",
+        "favHobby" :"Reading",
+        "criminal" : false,
+        "dreamCars":[
+            {
+                "carName": "BMW",
+                "engineCapacity" : 6,
+                "model" : "GT"
+            },
+            {
+                "carName": "Mercedes-Benz",
+                "engineCapacity" : 6,
+                "model" : "s-class coupe"
+            }
+        ]
+    },
+    {
+        "firstName": "Sivuyile",
+        "lastName": "Mtwetwe",
+        "favHobbie": "Coding",
+        "criminal": false,
+        "dreamCars": [
+            {
+                "carName": "Farrari 250 GT",
+                "engineCapacity": 3,
+                "model": "Coupe"
+            },
+            {
+                "carName": "Lamborghini",
+                "engineCapacity": 3,
+                "model": "1980 Lamborghini Athon"
+            }
+        ]
+    }
+]
